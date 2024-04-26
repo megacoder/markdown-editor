@@ -2,7 +2,7 @@
 node_modules/
 
 # electron binary packages
-bin/
+# bin/
 markdown-editor-*.tar.gz
 markdown-editor-*.zip
 
